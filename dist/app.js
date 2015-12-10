@@ -1,0 +1,1 @@
+webpackJsonp([1],{0:function(e,t,n){e.exports=n(7)},7:function(e,t,n){"use strict";function a(e){return e&&e.__esModule?e:{"default":e}}var u=n(1),c=a(u),d=n(2),l=a(d);c["default"].render(c["default"].createElement("div",{className:"time"},c["default"].createElement(l["default"],{name:"入口1-pc端"})),document.getElementById("app"))}});
